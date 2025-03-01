@@ -5,7 +5,6 @@ Contracts Finder
 [![Generic badge](https://img.shields.io/badge/License-GNU3.0-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/BuildPassing-Yes-orange.svg)](https://shields.io/)
-----
 
 A scraper to scrape data on awarded contracts from [Contracts Finder](https://www.gov.uk/contracts-finder). It uses Version 2 of the contracts finder API, iterating through dateranges in a gradually decremental way. The only dependency is `requests`, with output deposited in `./data/`.
 
