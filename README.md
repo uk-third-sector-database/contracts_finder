@@ -1,5 +1,5 @@
-Contracts Finder
-------
+## Contracts Finder Scraper
+
 ![coverage](https://img.shields.io/badge/Purpose-Research-yellow)
 [![Generic badge](https://img.shields.io/badge/Python-3.x-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/License-GNU3.0-purple.svg)](https://shields.io/)
