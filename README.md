@@ -1,7 +1,7 @@
 Contracts Finder
 ------
 ![coverage](https://img.shields.io/badge/Purpose-Research-yellow)
-[![Generic badge](https://img.shields.io/badge/Python-3.7-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-3.x-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/License-GNU3.0-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/BuildPassing-Yes-orange.svg)](https://shields.io/)
